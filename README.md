@@ -1,2 +1,2 @@
 # My-restaurant
-Task02
+Prep-course-Task02
